@@ -1,2 +1,10 @@
-# web_-development-project1
-This project is about building a modern, interactive navigation menu for websites. The goal is to make navigation user-friendly, responsive, and visually engaging. ✨ Features Responsive Design – Works seamlessly on desktop, tablet, and mobile. Smooth Animations – Hover effects, transitions, or slide-in menus for a modern feel.
+# web_-development-project2
+A simple stopwatch built with HTML, CSS, and JavaScript. It supports start/pause, reset, and lap recording.
+
+Features (bullets):
+
+Start / Pause timer
+
+Reset time
+
+Record lap times
