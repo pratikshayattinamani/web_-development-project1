@@ -7,4 +7,4 @@ Start / Pause timer
 
 Reset time
 
-Record lap times
+Record lap times. 
